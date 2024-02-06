@@ -5,8 +5,8 @@ package exercise1;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author Sahil Sahil
+ * @author Sahil Sahil feb 06 2024 
  */
 public class CardTrick {
     
@@ -45,19 +45,18 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Sahil Sahil, but you can call me prof,);
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
-        System.out.println("-- Have a semester with no violations of academic integrity!");
+        System.out.println("-- Be more active on instagram");
+        System.out.println("-- scored wel");
 	System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Investing");
-        System.out.println("-- Cooking");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- hicking ");
+        System.out.println("-- gardening");
+
 
         System.out.println();
         
